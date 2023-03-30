@@ -24,6 +24,7 @@ public class W2_Lab_1 {
                 high = mid;
             } else
                 low = mid + 1;
+            //low = mid = 1 //헷갈린다. 로직 다시봐바야할듯?
         }
 
         System.out.println("low = " + low);
