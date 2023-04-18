@@ -32,7 +32,7 @@ public class W1_HW_2 {
         for (int i = 0; i < A.length; i++) {
             total += A[i] * maxArr[i];
         }
-//이게 맞나 다시생각해보자
+//이게 맞나 다시생각해보자..
         System.out.println(total);
     }
 
