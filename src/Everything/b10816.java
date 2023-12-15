@@ -72,7 +72,6 @@ public class b10816 {
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < m; i++) {
             ans = binarySearch(Integer.parseInt(st.nextToken()));
-            System.out.print(ans + " ");
             sb.append(ans).append(" ");
         }
 
